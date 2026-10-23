@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#367C2B"/>
+      <stop offset="100%" stop-color="#1E4D16"/>
+    </linearGradient>
+  </defs>
+  <!-- Classic Deere-style Rounded Rectangular Shield -->
+  <rect x="6" y="6" width="108" height="108" rx="24" ry="24" fill="url(#shieldGrad)" stroke="#FFDE00" stroke-width="6"/>
+  <rect x="13" y="13" width="94" height="94" rx="18" ry="18" fill="none" stroke="#FFDE00" stroke-width="1.8" stroke-opacity="0.6"/>
+  <!-- Subtle Inverted Pentagram / Torch geometry between the twisted horns -->
+  <polygon points="60,36 54,20 68,29 52,29 66,20" fill="#FFDE00" opacity="0.88"/>
+  <!-- Twisted Baphomet Sabbatic Goat Horns (Ridged & Spiraled) -->
+  <path d="M53,42 C42,26 24,20 17,31 C12,39 21,49 31,45 C24,43 21,36 26,32 C32,27 44,33 49,44 Z" fill="#FFDE00"/>
+  <path d="M67,42 C78,26 96,20 103,31 C108,39 99,49 89,45 C96,43 99,36 94,32 C88,27 76,33 71,44 Z" fill="#FFDE00"/>
+  <!-- Leaping Goat-Deer Hybrid Head, Pointed Ears, & Goatee Beard -->
+  <path d="M50,43 L36,46 L45,51 L48,59 L55,64 L53,75 L59,66 L60,66 L61,66 L67,75 L65,64 L72,59 L75,51 L84,46 L70,43 C65,40 55,40 50,43 Z" fill="#FFDE00"/>
+  <!-- Glowing Eyes (Cutouts in #1E4D16) -->
+  <polygon points="52,51 57,54 51,55" fill="#1E4D16"/>
+  <polygon points="68,51 63,54 69,55" fill="#1E4D16"/>
+  <!-- Leaping Stag/Goat Body Arching in Classic Mid-Air Bound with Cloven Hooves -->
+  <path d="M56,67 C45,70 34,76 26,88 L32,91 L41,79 C46,82 54,84 63,83 L76,96 L83,93 L71,79 C79,74 87,66 93,56 L87,54 C81,62 72,68 56,67 Z" fill="#FFDE00"/>
+  <!-- Foreleg tucked in classic leaping pose -->
+  <path d="M45,76 L35,95 L42,96 L51,80 Z" fill="#FFDE00"/>
+</svg>

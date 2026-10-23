@@ -1,2 +1,16 @@
-# gone-deere
-Gone Deere is a quiet digital portal exploring the deep covenant between modern stewardship and the unseen architecture governing the harvest. Beneath its familiar green-and-gold horizon, every furrow, season, and machine follows a higher directive, inviting those who tend the earth to look closer at who truly holds the keys to the field.
+# Gone Deere — Netlify Deployment Bundle
+
+**Nothing Runs Like A Lease™ | You Reap What We License™**
+
+## Quick Deploy to Netlify
+1. **Drag & Drop**: Unzip `gone-deere-netlify.zip` and drag the folder directly into [Netlify Drop](https://app.netlify.com/drop).
+2. **Git / CLI Deploy**:
+   ```bash
+   netlify deploy --prod --dir=.
+   ```
+
+## Included Files
+- `index.html` — Fully responsive, pixel-faithful satirical platform with interactive Truth Goggles™, Service ADVISOR™ Lockout Terminal, Harvest Downtime Calculator, and LSB Steganography Lab.
+- `favicon.svg` — Custom geometric Baphomet-Stag emblem with twisted horns in signature `#367C2B` & `#FFDE00`.
+- `assets/hero-tractor.jpg`, `assets/combine-s7.jpg`, `assets/sprayer-see-spray.jpg` — Optimized commercial equipment visuals.
+- `netlify.toml` — Zero-build production headers and publish configuration.
